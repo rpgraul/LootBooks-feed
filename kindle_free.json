@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "asin": "B0MOCKKIN01",
+    "store": "amazon",
+    "title": "Neblina Sobre Karnak — Fantasia Sombria",
+    "author": "Autora Mock",
+    "publisher": "Editora Mock",
+    "category": "kindle_free",
+    "current_price": 0.0,
+    "reference_price": null,
+    "format": "Kindle",
+    "price_checked_at": "2026-10-30",
+    "page_count": 340,
+    "rating": 4.6,
+    "review_count": 420,
+    "image_url": "https://placehold.co/400x600/1E293B/64748B?text=Kindle",
+    "synopsis": "Ficção especulativa premiada."
+  }
+]
