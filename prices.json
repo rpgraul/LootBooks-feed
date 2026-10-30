@@ -69,13 +69,14 @@
     "author": "Rebecca Yarros",
     "publisher": null,
     "category": "deluxe_box",
-    "current_price": 38.79,
-    "reference_price": null,
-    "price_checked_at": "2026-10-28",
+    "current_price": 38.01,
+    "reference_price": 69.9,
+    "format": "Capa Comum",
+    "price_checked_at": "2026-10-30",
     "page_count": 0,
     "rating": 4.7,
     "review_count": 0,
-    "image_url": null,
+    "image_url": "https://m.media-amazon.com/images/I/811XZWjaH4L._SL1500_.jpg",
     "synopsis": null
   },
   {
