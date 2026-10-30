@@ -1,5 +1,37 @@
 [
   {
+    "asin": "8583651574",
+    "title": "Fabula Ultima RPG ― Livro Básico",
+    "author": "J-Plan",
+    "publisher": null,
+    "category": "comic_rpg",
+    "current_price": 164.9,
+    "reference_price": null,
+    "format": "Capa dura a partir de",
+    "price_checked_at": "2026-10-30",
+    "page_count": 0,
+    "rating": 4.5,
+    "review_count": 0,
+    "image_url": "https://m.media-amazon.com/images/I/61dgC3DKsoL._SL1000_.jpg",
+    "synopsis": null
+  },
+  {
+    "asin": "6588634528",
+    "title": "Tormenta20 ― Livro Básico (Versão Econômica)",
+    "author": "Jambô",
+    "publisher": null,
+    "category": "comic_rpg",
+    "current_price": 66.4,
+    "reference_price": 99.9,
+    "format": "Capa Comum",
+    "price_checked_at": "2026-10-30",
+    "page_count": 0,
+    "rating": 0.0,
+    "review_count": 16,
+    "image_url": "https://m.media-amazon.com/images/I/71FNcfSdLDL._SL1000_.jpg",
+    "synopsis": null
+  },
+  {
     "asin": "6581339180",
     "title": "Mistborn: O Império Final: Livro 1 de Mistborn",
     "author": "Brandon Sanderson",
@@ -189,38 +221,6 @@
     "rating": 4.8,
     "review_count": 0,
     "image_url": "https://m.media-amazon.com/images/I/81zQT5LG0eL._SL1500_.jpg",
-    "synopsis": null
-  },
-  {
-    "asin": "8583651574",
-    "title": "Fabula Ultima RPG ― Livro Básico",
-    "author": "J-Plan",
-    "publisher": null,
-    "category": "comic_rpg",
-    "current_price": 164.9,
-    "reference_price": null,
-    "format": "Capa dura a partir de",
-    "price_checked_at": "2026-10-30",
-    "page_count": 0,
-    "rating": 4.5,
-    "review_count": 0,
-    "image_url": "https://m.media-amazon.com/images/I/61dgC3DKsoL._SL1000_.jpg",
-    "synopsis": null
-  },
-  {
-    "asin": "6588634528",
-    "title": "Tormenta20 ― Livro Básico (Versão Econômica)",
-    "author": "Jambô",
-    "publisher": null,
-    "category": "comic_rpg",
-    "current_price": 66.4,
-    "reference_price": 99.9,
-    "format": "Capa Comum",
-    "price_checked_at": "2026-10-30",
-    "page_count": 0,
-    "rating": 0.0,
-    "review_count": 16,
-    "image_url": "https://m.media-amazon.com/images/I/71FNcfSdLDL._SL1000_.jpg",
     "synopsis": null
   }
 ]
