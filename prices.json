@@ -1,37 +1,5 @@
 [
   {
-    "asin": "8576868393",
-    "title": "Uma chama entre as cinzas (Vol. 1)",
-    "author": "Rebecca Yarros",
-    "publisher": null,
-    "category": "deluxe_box",
-    "current_price": 38.01,
-    "reference_price": 69.9,
-    "format": "Capa Comum",
-    "price_checked_at": "2026-10-30",
-    "page_count": 0,
-    "rating": 4.7,
-    "review_count": 4016,
-    "image_url": "https://m.media-amazon.com/images/I/811XZWjaH4L._SL1500_.jpg",
-    "synopsis": null
-  },
-  {
-    "asin": "8542223780",
-    "title": "Mickey7: O livro que inspirou o filme de Bong Joon-ho com Robert Pattinson",
-    "author": "Edward Ashton",
-    "publisher": null,
-    "category": "standard_fiction",
-    "current_price": 28.06,
-    "reference_price": 45.9,
-    "format": "Capa Comum",
-    "price_checked_at": "2026-10-30",
-    "page_count": 0,
-    "rating": 0.0,
-    "review_count": 16,
-    "image_url": "https://m.media-amazon.com/images/I/8137t6aR6+L._SL1500_.jpg",
-    "synopsis": null
-  },
-  {
     "asin": "8556513115",
     "title": "Terra à deriva: Contos: Dez contos do autor do best-seller mundial o problema dos três corpos",
     "author": "Cixin Liu",
@@ -221,6 +189,38 @@
     "rating": 4.8,
     "review_count": 20931,
     "image_url": "https://m.media-amazon.com/images/I/8149sHa46sL._SL1500_.jpg",
+    "synopsis": null
+  },
+  {
+    "asin": "8576868393",
+    "title": "Uma chama entre as cinzas (Vol. 1)",
+    "author": "Rebecca Yarros",
+    "publisher": null,
+    "category": "deluxe_box",
+    "current_price": 38.01,
+    "reference_price": 69.9,
+    "format": "Capa Comum",
+    "price_checked_at": "2026-10-30",
+    "page_count": 0,
+    "rating": 4.7,
+    "review_count": 4016,
+    "image_url": "https://m.media-amazon.com/images/I/811XZWjaH4L._SL1500_.jpg",
+    "synopsis": null
+  },
+  {
+    "asin": "8542223780",
+    "title": "Mickey7: O livro que inspirou o filme de Bong Joon-ho com Robert Pattinson",
+    "author": "Edward Ashton",
+    "publisher": null,
+    "category": "standard_fiction",
+    "current_price": 28.06,
+    "reference_price": 45.9,
+    "format": "Capa Comum",
+    "price_checked_at": "2026-10-30",
+    "page_count": 0,
+    "rating": 0.0,
+    "review_count": 16,
+    "image_url": "https://m.media-amazon.com/images/I/8137t6aR6+L._SL1500_.jpg",
     "synopsis": null
   }
 ]
