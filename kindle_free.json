@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "asin": "B07CX4KG4T",
+    "title": "Free Comic Book Day 2018: Amazing Spider-Man",
+    "author": "Marvel",
+    "publisher": null,
+    "category": "kindle_free",
+    "current_price": 0.0,
+    "reference_price": null,
+    "format": "Kindle",
+    "price_checked_at": "2026-10-31",
+    "page_count": 0,
+    "rating": 4.5,
+    "review_count": 12191,
+    "image_url": null,
+    "synopsis": null
+  },
+  {
+    "asin": "B0FYQPK83R",
+    "title": "Bear – As Aventuras de Dimas & Raven: Na Cidade das Charadas",
+    "author": "Dimas & Raven",
+    "publisher": null,
+    "category": "kindle_free",
+    "current_price": 0.0,
+    "reference_price": null,
+    "format": "Kindle",
+    "price_checked_at": "2026-10-31",
+    "page_count": 0,
+    "rating": 4.8,
+    "review_count": 12191,
+    "image_url": null,
+    "synopsis": null
+  },
+  {
+    "asin": "B0CNWXN2Y4",
+    "title": "Bear – As Aventuras de Dimas & Raven",
+    "author": "Dimas & Raven",
+    "publisher": null,
+    "category": "kindle_free",
+    "current_price": 0.0,
+    "reference_price": null,
+    "format": "Kindle",
+    "price_checked_at": "2026-10-31",
+    "page_count": 0,
+    "rating": 4.6,
+    "review_count": 44811,
+    "image_url": null,
+    "synopsis": null
+  }
+]
