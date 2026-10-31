@@ -1,21 +1,5 @@
 [
   {
-    "asin": "8556513115",
-    "title": "Terra à deriva: Contos: Dez contos do autor do best-seller mundial o problema dos três corpos",
-    "author": "Cixin Liu",
-    "publisher": null,
-    "category": "standard_fiction",
-    "current_price": 39.9,
-    "reference_price": null,
-    "format": "Capa Comum a partir de",
-    "price_checked_at": "2026-10-30",
-    "page_count": 0,
-    "rating": 4.6,
-    "review_count": 0,
-    "image_url": "https://m.media-amazon.com/images/I/719p8a159zL._SL1500_.jpg",
-    "synopsis": null
-  },
-  {
     "asin": "8594540507",
     "title": "A Longa Viagem a um Pequeno Planeta Hostil: A ficção científica independente que está conquistando o universo",
     "author": "Becky Chambers",
@@ -221,6 +205,22 @@
     "rating": 0.0,
     "review_count": 16,
     "image_url": "https://m.media-amazon.com/images/I/8137t6aR6+L._SL1500_.jpg",
+    "synopsis": null
+  },
+  {
+    "asin": "8556513115",
+    "title": "Terra à deriva: Contos: Dez contos do autor do best-seller mundial o problema dos três corpos",
+    "author": "Cixin Liu",
+    "publisher": null,
+    "category": "standard_fiction",
+    "current_price": 39.9,
+    "reference_price": null,
+    "format": "Capa Comum a partir de",
+    "price_checked_at": "2026-10-30",
+    "page_count": 0,
+    "rating": 4.6,
+    "review_count": 0,
+    "image_url": "https://m.media-amazon.com/images/I/719p8a159zL._SL1500_.jpg",
     "synopsis": null
   }
 ]
