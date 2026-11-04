@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "asin": "B06XXSMK9R",
+    "title": "Literaturas da floresta: textos amazônicos e cultura latino-americana",
+    "author": "L&uacute;cia S&aacute;",
+    "publisher": null,
+    "category": "kindle_free",
+    "current_price": 0.0,
+    "reference_price": null,
+    "format": "Kindle",
+    "price_checked_at": "2026-11-04",
+    "page_count": 535,
+    "rating": 4.7,
+    "review_count": 2935,
+    "image_url": "https://m.media-amazon.com/images/I/81ps4JCHiYL._SL1500_.jpg",
+    "synopsis": null
+  },
+  {
+    "asin": "B0H172Z7S7",
+    "title": "Eu tenho você : Uma história sobre amizade, amor e fé",
+    "author": "Cristina  Vieira",
+    "publisher": null,
+    "category": "kindle_free",
+    "current_price": 0.0,
+    "reference_price": null,
+    "format": "Kindle",
+    "price_checked_at": "2026-11-04",
+    "page_count": 262,
+    "rating": 4.6,
+    "review_count": 34,
+    "image_url": "https://m.media-amazon.com/images/I/6123QCNcF7L._SL1280_.jpg",
+    "synopsis": null
+  }
+]
