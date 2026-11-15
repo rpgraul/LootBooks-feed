@@ -1,5 +1,29 @@
 [
   {
+    "asin": "8594541937",
+    "title": "Vitorianas Macabras",
+    "author": "Edgar Allan Poe",
+    "publisher": null,
+    "category": "deluxe_box",
+    "current_price": 49.15,
+    "reference_price": 79.9,
+    "format": "Capa dura",
+    "price_checked_at": "2026-11-15",
+    "page_count": 0,
+    "rating": 4.8,
+    "review_count": 1081,
+    "genres": [
+      "Livros",
+      "Literatura e Ficção",
+      "Literatura de Gênero",
+      "Antologias"
+    ],
+    "free_verified": false,
+    "kindle_unlimited": false,
+    "image_url": "https://m.media-amazon.com/images/I/51X4rB8WfqL._SL1000_.jpg",
+    "synopsis": null
+  },
+  {
     "asin": "6555140135",
     "title": "Estranhos no Paraíso volume 4: Admirável Mundo Novo",
     "author": "Junji Ito",
@@ -502,30 +526,6 @@
     "free_verified": false,
     "kindle_unlimited": false,
     "image_url": "https://m.media-amazon.com/images/I/814rMSPlZbL._SL1500_.jpg",
-    "synopsis": null
-  },
-  {
-    "asin": "8594541937",
-    "title": "Vitorianas Macabras",
-    "author": "Edgar Allan Poe",
-    "publisher": null,
-    "category": "deluxe_box",
-    "current_price": 49.15,
-    "reference_price": 79.9,
-    "format": "Capa dura",
-    "price_checked_at": "2026-11-15",
-    "page_count": 0,
-    "rating": 4.8,
-    "review_count": 1080,
-    "genres": [
-      "Livros",
-      "Literatura e Ficção",
-      "Literatura de Gênero",
-      "Antologias"
-    ],
-    "free_verified": false,
-    "kindle_unlimited": false,
-    "image_url": "https://m.media-amazon.com/images/I/51X4rB8WfqL._SL1000_.jpg",
     "synopsis": null
   }
 ]
